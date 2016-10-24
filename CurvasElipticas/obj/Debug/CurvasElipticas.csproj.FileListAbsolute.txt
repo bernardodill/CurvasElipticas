@@ -1,0 +1,9 @@
+c:\users\bernardo\documents\visual studio 2015\Projects\CurvasElipticas\CurvasElipticas\bin\Debug\CurvasElipticas.exe.config
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\bin\Debug\CurvasElipticas.exe
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\bin\Debug\CurvasElipticas.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\obj\Debug\CurvasElipticas.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\obj\Debug\CurvasElipticas.Form1.resources
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\obj\Debug\CurvasElipticas.Properties.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\obj\Debug\CurvasElipticas.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\obj\Debug\CurvasElipticas.exe
+C:\Users\Bernardo\Documents\Visual Studio 2015\Projects\CurvasElipticas\CurvasElipticas\obj\Debug\CurvasElipticas.pdb
